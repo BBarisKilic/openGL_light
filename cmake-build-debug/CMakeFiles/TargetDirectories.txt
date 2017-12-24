@@ -1,0 +1,3 @@
+/home/eopeace/CLionProjects/Light/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eopeace/CLionProjects/Light/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eopeace/CLionProjects/Light/cmake-build-debug/CMakeFiles/Light.dir

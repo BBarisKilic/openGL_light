@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eopeace/CLionProjects/Light/cube.cpp
+iostream
+-
+SDL/SDL.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+
